@@ -150,7 +150,7 @@
 			</div>
 		</section>
 
-		<!-- About Section -->
+		<!-- About Section of the personality prediction-->
 		<section class="section-box" style="text-align: center;">
 			<div class="container section-title" data-aos="fade-up">
 				<h2>About This Project</h2>
